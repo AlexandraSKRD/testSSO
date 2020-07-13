@@ -1,0 +1,12 @@
+venv/
+static/*
+node_modules
+.idea/
+*.pyo
+*.pyc
+*.sqlite3
+lease-frontend/static/bundles
+lease-frontend/static/*.json
+package-lock.json
+celerybeat-schedule
+lease-frontend/.eslintrc.js
